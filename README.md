@@ -1,1 +1,2 @@
-# Minning
+# Geologist
+Geologist Project
